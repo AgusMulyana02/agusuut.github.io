@@ -1,0 +1,60 @@
+body{
+	font-family: courier;
+	margin: 0;
+	font-size: 150%;
+	background: url(https://www.kibrispdr.org/data/772/love-pink-background-12.jpg);
+	text-align: center;
+
+
+
+}
+.top-bar{
+	
+}
+.menu{
+	padding: 1% 2%;
+	background: #B50558;
+	border-radius: 30px;
+	text-decoration: none;
+	color: white;
+	margin-bottom: 50px;
+
+
+}
+.menu:hover{
+	text-decoration: underline;
+	font-style: italic;
+}
+.list-menu{
+	margin-bottom: 20px;
+
+}
+.poto{
+	text-align: center;
+
+
+}
+marquee{
+	padding: 0 100%;
+	background: #B50558;
+	margin-top: 50px;
+	color: white;
+}
+.spasi{
+	margin-bottom: 100px;
+}
+.img1{
+	border-radius: 40px;
+	padding: 10px;
+	background: #B50558;
+	margin-bottom: 30px;
+}
+audio{
+	width: 70%;
+}
+h1{
+	text-decoration:underline ;
+}
+#home{
+	text-decoration: none;
+}
